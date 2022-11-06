@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import china from '../assets/sty'
-import { marked } from 'marked';
+import { marked } from "marked";
 export default class Second extends Component {
 
     constructor(props) {
