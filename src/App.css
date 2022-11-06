@@ -44,6 +44,7 @@ nav:hover {
 .firstSentence .framer1{
   display: inline;
   margin-left: 5vw;
+  margin-right: 5vw;
   text-align: left;
   font-size: 25px;
 }
@@ -58,14 +59,14 @@ nav:hover {
   width: 80px;
 }
 .firstSentence .framer2 {
-  margin-right: 5vw;
-  height: 75vh;
+  height: 60vh;
   border-radius:72px; 
   background:#f2f2f2;
   box-shadow: -26px -26px 35px #ffffff,26px 26px 35px #d5d5d5;
 }
 .firstSentence .framer2 img{
-  height: 100%;
+  height: 60vh;
+  max-width: 100vw;
 }
 .firstSentence .framer2:hover{
   box-shadow: -26px -26px 25px #ffffff,26px 26px 25px #a8a8a8;
@@ -81,7 +82,7 @@ nav:hover {
 }
 button {
   margin: 50px;
-  width: 300px;
+  width: 240px;
   height: 5vh;
   font-size: 25px;
   background-color: black;
@@ -161,7 +162,7 @@ button:hover{
   .firstSentence .framer2 {
     width: unset;
     margin-right: unset;
-    height: 75vh;
+    height: 60vh;
     border-radius:72px; 
     background:#f2f2f2;
     box-shadow: -26px -26px 35px #ffffff,26px 26px 35px #d5d5d5;
