@@ -138,10 +138,8 @@ And here. | Okay. | I think we get it.
                 <div className="empty"></div>
                 <div className="pages">
                     <h1>Editor</h1>
-                    <textarea id="editori" value={this.state.input} class="framer1" onChange={this.handleChange}>
-                    </textarea>
-                    <textarea id="editor" value={this.state.inputfordisp} class="framer1" onChange={this.handleChangeW}>
-                    </textarea>
+                    <textarea id="editori" value={this.state.input} class="framer1" onChange={this.handleChange} />
+                    <textarea id="editor" value={this.state.inputfordisp} class="framer1" onChange={this.handleChangeW} />
                     <h1>Preview</h1>
                     <div id="prev" className="framer2">
                     </div>
