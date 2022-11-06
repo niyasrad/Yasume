@@ -146,7 +146,7 @@ And here. | Okay. | I think we get it.
                     <div id="preview" className="framer2">
                     </div>
                 </div>
-                <button onClick={this.handleDown}>Download as HTML</button>
+                <button onClick={this.handleDown}>Download HTML</button>
                 <button><a href={china} download="styles.css" >Download CSS*</a></button>
             </div> 
                     
