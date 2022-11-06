@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import china from '../assets/sty'
+import china from '../assets/sty.txt'
 import { marked } from "marked";
 export default class Second extends Component {
 
