@@ -157,7 +157,7 @@ button:hover{
     margin-right: 20px;
 
     text-align: center;
-    font-size: 22px;
+    font-size: 18px;
   }
   .firstSentence .framer2 {
     width: unset;
@@ -171,6 +171,6 @@ button:hover{
     font-size: 18px;
   }
   #prev{
-    font-size: 20px;
+    font-size: 18px;
   }
 }
